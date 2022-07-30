@@ -10,10 +10,6 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Knee Socks](song/feb/knee_socks.md)
 
-### [Jhon Lennon](writer/john_lennon.md) 
-
-[Imagine](song/jan/vanilla-panna-cotta.md)
-
 ### [Queen](writer/queen.md) 
 
 [Bohemian Rhapsody](../song/feb/bohemian_rhapsody.md)
